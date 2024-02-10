@@ -4,11 +4,6 @@ hudi-minio-starrpcks-superset
 ![Screenshot 2024-02-09 at 6 36 21 PM](https://github.com/soumilshah1995/hudi-minio-starrpcks-superset/assets/39345855/590981f8-b218-428b-a300-7e07b705843b)
 
 
-# StarRocks-Hudi-Minio
-StarRocks+Hudi+Minio
-![Screenshot 2024-02-03 at 5 30 11 PM](https://github.com/soumilshah1995/StarRocks-Hudi-Minio/assets/39345855/2c1747d2-866f-4fa4-a265-1a98ba1dfe98)
-
-
 # Steps 
 
 # Step 1: Spin up stack 
